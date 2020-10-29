@@ -1,0 +1,77 @@
+#menu {
+    display: flex;
+    justify-content: space-around;
+    borer: 1px solid black;
+    padding: 10px 0px;
+}
+
+#banner {
+    borer: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
+
+.banner {
+    font-style: italic;
+}
+
+#mission,
+#vision {
+    boder: 1px solid black;
+    text-align: center;
+    padding: 2px 400px;
+}
+
+.hr {
+    width: 300px;
+    margin: 2px 500px;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.header {
+    border: 1px solid black;
+    margin: 0px;
+    backgrund-color: burlywood;
+}
+
+#mission,
+#vision,
+#banner, {
+    margin: 0px;
+    width: 30px
+}
+
+#mission {
+    background-color: coral;
+    background-image: url('roberto-nickson--s5WfAx74fM-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 187, 16);
+}
+
+#vision {
+    color: darkgreen;
+    background-image: url(middle-aged-woman-feeling-happy-her-new-comfortable-mattress-woman-feeling-happy-her-new-comfortable-mattress-137925549.jpg);
+    background-position: center;
+}
+
+#banner {
+    color: blueviolet;
+    background-image: url(hindsam-hashi-bhbzxelU7Hg-unsplash.jpg);
+    background-position: center;
+}
+
+footer {
+    background-iage: url(sidekix-media-yTxejXXhQnU-unsplash.jpg);
+    background-position: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(221, 243, 226);
+}
+
+p {
+    margin: 0px;
+}
