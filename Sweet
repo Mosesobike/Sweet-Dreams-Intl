@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sweet Dreams International</title>
+        <link href="Landing_Page.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <div>
+                <ul id="menu">
+                    <li>HOME</li>
+                    <li>PRODUCTS</li>
+                    <li>PURCHASE FORM</li>
+                    <li>STORES</li>
+                </ul>
+                <hr>
+            </div>
+            <div id="banner">
+                <h1 class="banner">Sweet Dreams International</h1>
+                <h4 class="banner">Our mattresses can take your pain away</h4>
+            </div>
+        </header>
+        <hr>
+        <main>
+            <div id="mission">
+                <h2 class="statements">Our Mission</h2>
+                <h5 class="details">We hope to create an online store where all our customers can purchase the comfy, well-designed mattresses of their choice despite their income or class. </h5>
+            </div>
+        <hr>
+        <div id="vision">
+            <h2>Our Vision</h2>
+            <h5>We see, in our future, a reliable online mattress store built on trust and accountabilty with branches in all parts of the world with products well-priced to properly suit the target consumer's financial needs. </h5>
+        </div>
+        </main>
+        <footer>
+            <p>Contact Us!</p>
+        </footer>
+    </body>
+</html>
